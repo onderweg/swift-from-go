@@ -7,4 +7,5 @@ Example code, complementing the blog post: ["Calling Swift from Go"](https://dev
 ```
 $ swift build
 $ go build -o hello
+$ ./hello
 ```
